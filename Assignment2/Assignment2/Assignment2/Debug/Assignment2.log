@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\beigedynamite\documents\t163\year 1\semester 2\advanced programming\assignment2\assignment2\main.cpp(71): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\beigedynamite\documents\t163\year 1\semester 2\advanced programming\assignment2\assignment2\main.cpp(89): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Assignment2.vcxproj -> D:\BeigeDynamite\Documents\T163\Year 1\Semester 2\Advanced Programming\Assignment2\Debug\Assignment2.exe
